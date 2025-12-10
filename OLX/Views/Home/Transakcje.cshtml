@@ -1,0 +1,66 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Identity
+@using OLX.ViewModels
+@inject UserManager<Users> UserManager
+@{
+    ViewData["Title"] = "User Panel";
+}
+<style>
+    .fajna {
+        background-color: #212121;
+        border-color: #0f0f0f;
+        border-radius: 5px;
+        width: 70%;
+        padding: 20px;
+        border-width: 5px;
+        margin: 20px;
+        margin-left: 15%;
+        text-align: left;
+    }
+
+    .center {
+        text-align: center;
+        color: #3b3b3b
+    }
+
+</style>
+@{
+    var user = await UserManager.GetUserAsync(User);
+
+    var post_count = 0;
+}
+
+@model List<TransactionViewModel>
+
+<div class="text-center">
+    <h2 class="display-6">Historia Transakcji @user.FullName.ToUpper()</h2>
+    <hr />
+</div>
+
+@foreach (var trans in Model)
+{
+    post_count += 1;
+
+    <div class="transaction fajna">
+        <h3>Transaction @trans.TransId</h3>
+
+        <ul>
+            @foreach (var item in trans.Items)
+            {
+                <li>
+                    @item.PostName – @item.PostPrice zł – @item.Contact
+                </li>
+            }
+        </ul>
+    </div>
+}
+
+@if (post_count <= 0)
+{
+    <div class="center">
+        <p>Oho! nic tu nie ma!</p>
+        <a class="btn btn-primary" asp-action="Posty" asp-controller="Home">Kup coś!</a>
+    </div>
+
+}
+

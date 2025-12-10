@@ -1,0 +1,171 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<Users> UserManager
+@{
+    ViewData["Title"] = "Posty";
+    Random rng = new Random();
+    int id = rng.Next(10000);
+    var user = await UserManager.GetUserAsync(User);
+}
+
+@model OLX.ViewModels.PostsWithComments
+
+<style>
+    body {
+        text-align: center;
+    }
+
+    .fajna {
+        background-color: #212121;
+        border-color: #0f0f0f;
+        border-radius: 5px;
+        width: 70%;
+        padding: 20px;
+        border-width: 5px;
+        margin: 20px;
+        margin-left: 15%;
+        text-align: left;
+    }
+
+    .left_right {
+        text-align: left;
+        gap: 20px;
+    }
+
+    .leftist {
+        flex: 2;
+        background-color: #383838;
+        border-radius: 5px;
+        padding: 20px;
+        margin-top: 10px;
+    }
+
+    .leftist2 {
+        flex: 2;
+        background-color: #292929;
+        border-radius: 5px;
+        padding: 20px;
+        margin-top: 10px;
+    }
+
+    .rightist {
+        flex: 3;
+        text-align: center;
+    }
+
+    .dk {
+        color: #6c6c6c;
+    }
+
+    .poled {
+        background-color: #121212;
+        font-size: 15px;
+        height: auto;
+        width: stretch;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #b3b3b3;
+        margin-bottom: 15px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding-left: 5px;
+        transition-duration: 0.3s;
+    }
+
+    .poled:hover {
+        background-color: #121212;
+        font-size: 15px;
+        height: auto;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #ffffff;
+        margin-bottom: 15px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding-left: 5px;
+        transition-duration: 0.3s;
+    }
+
+    hh {
+        font-size: 50px;
+    }
+        
+    green {
+        color: limegreen;
+    }
+
+    red {
+        color: red;
+    }
+
+    .search {
+        width: 20%;
+    }
+
+    .search.hover {
+        width: 20%;
+    }
+
+</style>
+
+<body>
+    <div class="text-center">
+        <a class="btn btn-primary" asp-action="Create" asp-controller="Home">Dodaj Post!</a>
+        <br />
+        <hr />
+        <h1 class="display-4">Posty</h1>
+        <input id="searchBar" class="poled search" type="text" placeholder="Szukaj postów..." oninput="searchPosts()" /><br />
+       
+        
+        <select id="sortBy" class="poled search" onchange="searchPosts()">
+            <option value="date">Data dodania</option>
+            <option value="title">Tytuł</option>
+            <option value="price">Cena</option>
+        </select> <br />
+
+        <select id="sortOrder" class="poled search" onchange="searchPosts()">
+            <option value="asc">Rosnąco</option>
+            <option value="desc">Malejąco</option>
+        </select><br />
+
+            <input type="checkbox" id="hideNotActual" onchange="searchPosts()" style="margin-right:5px;" />
+            Ukryj nieaktualne
+
+
+        <div id="postsContainer">
+            @await Html.PartialAsync("_PostsPartial", Model)
+        </div>
+        <h1 class="display-4 dk">To koniec, nic dalej nie ma</h1>
+    </div>
+    <script>
+        let buttony = document.querySelectorAll("#skibidy");
+
+        for (let i of buttony) {
+            i.addEventListener("click",()=>{
+                i.nextElementSibling.toggleAttribute("hidden");
+                if (i.nextElementSibling.hidden == true) {
+                    i.innerHTML = "Pokaz Komentarze";
+                } else {
+                    i.innerHTML = "Ukryj Komentarze";
+                }
+            })
+        }
+
+        async function searchPosts() {
+
+            const search = document.getElementById("searchBar").value;
+            const sortBy = document.getElementById("sortBy").value;
+            const sortOrder = document.getElementById("sortOrder").value;
+            const hideNotActual = document.getElementById("hideNotActual").checked ? "true" : "false";
+
+            const url = '@Url.Action("FilterPosts", "Home")';
+
+            const response = await fetch(`${url}?search=${encodeURIComponent(search)}&sortBy=${sortBy}&sortOrder=${sortOrder}&hideNotActual=${hideNotActual}`);
+
+            const html = await response.text();
+            document.getElementById("postsContainer").innerHTML = html;
+        }
+
+    </script>
+</body>
+

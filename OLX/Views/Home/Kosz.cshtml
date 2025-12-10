@@ -1,0 +1,129 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<Users> UserManager
+@{
+    ViewData["Title"] = "Kosz";
+    decimal total = 0;
+    var user = await UserManager.GetUserAsync(User);
+}
+
+@model OLX.ViewModels.PostsWithUsers
+
+<style>
+    body {
+        text-align: center;
+    }
+
+    .fajna {
+        background-color: #212121;
+        border-color: #0f0f0f;
+        border-radius: 5px;
+        width: 50%;
+        padding: 20px;
+        border-width: 5px;
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        margin: 20px;
+        margin-left: 25%;
+    }
+
+    .leftist {
+        flex: 9;
+        background-color: #383838;
+        border-radius: 5px;
+        padding-left: 20px;
+        text-align: left;
+        padding-bottom: 10px;
+    }
+
+    .rightist {
+        flex: 1;
+    }
+
+    .dk {
+        color: #6c6c6c;
+    }
+
+    .poled {
+        background-color: #121212;
+        font-size: 15px;
+        height: auto;
+        width: stretch;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #b3b3b3;
+        margin-bottom: 15px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding-left: 5px;
+        transition-duration: 0.3s;
+    }
+
+    .poled:hover {
+        background-color: #121212;
+        font-size: 15px;
+        height: auto;
+        width: stretch;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #ffffff;
+        margin-bottom: 15px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding-left: 5px;
+        transition-duration: 0.3s;
+    }
+
+    .kosh {
+		background-image: url('d:\microsoft\projects\testapp\offlx\oflx\images\red-trash-can-icon.png');
+    }
+</style>
+
+<body>
+    <div class="text-center">
+        <h1 class="display-4">Kosz</h1>
+        <hr />
+        @{
+
+            @foreach (var pot in Model.Kosz)
+            {
+                if (pot.UserId == user.Id)
+                {
+                    var post = Model.Posts.FirstOrDefault(p => p.Id == pot.PostId);
+                    <div class="fajna">
+                        <div class="leftist">
+                            <hr />
+                            <h3>@post.Title | @post.Price zł</h3>
+                            <hr />
+                            <p class="dk">Opis:</p>
+                            <p>@post.Description</p> <br />
+                            <a asp-controller="Home" asp-action="Details" asp-route-id="@post.Id">Szczegóły</a>
+                            <a asp-action="DeleteKosz" asp-route-id="@pot.Id">Usuń</a>
+                        </div>
+                        <div class="rightist">
+                            @if (post.Picture != null && post.Picture.Length > 0)
+                            {
+                                var img = "data:image/png;base64," + Convert.ToBase64String(post.Picture);
+                                <img src="@img" width="64" />
+                            }
+                            <br />
+                            @if(post.Aktualne == true)
+                            {
+                                total += post.Price;
+                            }
+                            else
+                            {
+                                <red>Wyprzedane</red>
+                            }
+                        </div>
+                    </div> <br/>
+                }
+            }
+        }
+        <hr />
+        <h2>Łączna wartość przedmiotów w koszu: <b>@total zł</b></h2> <br/>
+        <a asp-action="Kup">Kup</a>
+    </div>
+</body>
+

@@ -1,0 +1,70 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@inject UserManager<Users> UserManager
+@{
+    ViewData["Title"] = "Admin Panel";
+}
+
+@{
+    var you = await UserManager.GetUserAsync(User);
+
+    var post_count = 0;
+}
+
+<style>
+    .fajna {
+        background-color: #212121;
+        border-color: #0f0f0f;
+        border-radius: 5px;
+        width: 70%;
+        padding: 20px;
+        border-width: 5px;
+        margin: 20px;
+        margin-left: 15%;
+        text-align: left;
+    }
+
+    .center {
+        text-align: center;
+        color: #3b3b3b
+    }
+
+    .sidescroll {
+        display: flex;
+        width: 70%;
+    }
+
+    .users {
+        flex: 2
+    }
+
+    .reports {
+        flex: 2
+    }
+
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Manage Users</h1>
+</div>
+
+@model List<Users>
+
+<div class="sidescroll">
+    <div class="users">
+        @foreach (var user in Model)
+        {
+            if (user.Id != you.Id)
+            {
+                <div class="fajna">
+                    @user.FullName, @user.Email, @if (user.Banned == false) {<a asp-action="Ban" asp-route-id="@user.Id">Ban User</a>} else {<a asp-action="Ban" asp-route-id="@user.Id">Unban User</a>}
+                </div>
+            }
+            
+        }
+    </div>
+    <div class="reports">
+    
+    </div>
+</div>
+

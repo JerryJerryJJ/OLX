@@ -1,0 +1,231 @@
+﻿@model OLX.Models.Post
+
+<style>
+    .fajna {
+        background-color: #212121;
+        border-color: #0f0f0f;
+        border-radius: 5px;
+        padding: 20px;
+        border-width: 5px;
+    }
+
+    .fajna form {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .poled {
+        background-color: #121212;
+        font-size: 20px;
+        height: auto;
+        width: stretch;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #b3b3b3;
+        margin-bottom: 15px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding-left: 5px;
+        transition-duration: 0.3s;
+    }
+
+    .poled:hover {
+        background-color: #121212;
+        font-size: 20px;
+        height: auto;
+        width: stretch;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #ffffff;
+        margin-bottom: 15px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding-left: 5px;
+        transition-duration: 0.3s;
+    }
+
+    h2 {
+        color: #6e6e6e;
+    }
+
+    h4 {
+        color: #6e6e6e;
+    }
+
+
+    h1 {
+        color: #6e6e6e;
+        font-size:70px;
+    }
+
+    .leftist {
+        flex: 23;
+    }
+
+    .rightist {
+        flex: 0.75;
+    }
+
+    .poled::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    .poled::-webkit-scrollbar-track {
+        background: #0d0d0d;
+        border-radius: 5px;
+    }
+
+    .poled::-webkit-scrollbar-thumb {
+        background: #212121; /* pomarańczowy */
+        border-radius: 1px;
+        transition-duration: 0.3s;
+    }
+
+    .poled::-webkit-scrollbar-thumb:hover {
+            background: #383838; /* jaśniejszy */
+            transition-duration: 0.3s;
+    }
+
+    .poled[type="number"]::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        background:
+        /* strzałka góra */
+        url("data:image/svg+xml;utf8,\
+    <svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'>\
+    <polygon fill='%23ff7a00' points='6,2 2,6 10,6'/>\
+    </svg>") center 25% no-repeat,
+        /* strzałka dół */
+        url("data:image/svg+xml;utf8,\
+    <svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'>\
+    <polygon fill='%23ff7a00' points='6,10 2,6 10,6'/>\
+    </svg>") center 75% no-repeat;
+        background-size: 12px 12px;
+        width: 20px;
+        cursor: pointer;
+    }
+
+
+    .poled::-webkit-resizer {
+        background: #ff7a00; /* pomarańczowy */
+    }
+
+    d {
+        color: #ff7a00;
+    }
+
+    .file-poled {
+        background-color: #121212;
+        color: #b3b3b3;
+        border: 0;
+        border-radius: 3px;
+        padding: 8px;
+        font-size: 18px;
+        width: 100%;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+    /* Zmiana tekstu przy hover */
+    .file-poled:hover {
+        color: #ffffff;
+    }
+
+    /* Styl samego przycisku "Wybierz plik" */
+    .file-poled::-webkit-file-upload-button {
+        background-color: #ff7a00;
+        color: #000;
+        border: none;
+        border-radius: 3px;
+        padding: 8px 12px;
+        margin-right: 10px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+    /* Hover efekt na pomarańczowym przycisku */
+    .file-poled::-webkit-file-upload-button:hover {
+        background-color: #ff9331;
+    }
+
+    .select-small {
+        background-color: #121212;
+        font-size: 16px;
+        height: 38px;
+        border: 0;
+        border-radius: 4px;
+        color: #b3b3b3;
+        padding: 5px 8px;
+        margin-bottom: 15px;
+        margin-top: 5px;
+        width: 250px;
+        transition: 0.3s;
+    }
+
+    /* Hover */
+    .select-small:hover {
+        background-color: #1a1a1a;
+        color: #ffffff;
+    }
+
+    /* Focus — pomarańczowa ramka */
+    .select-small:focus {
+        outline: 2px solid #ff8c00;
+        color: #ffffff;
+    }
+
+    .poled:focus {
+        outline: 2px solid #ff8c00;
+        color: #ffffff;
+    }
+
+    /* Żeby przeglądarka użyła swojej strzałki → pewne, działa wszędzie */
+    .select-small {
+        appearance: auto;
+    }
+
+    .dk {
+        color: #6c6c6c;
+    }
+
+</style>
+
+<div class="fajna">
+    <form asp-action="PostForm" asp-controller="Home" enctype="multipart/form-data">
+
+        <input asp-for="Id" type="hidden" />
+        <input asp-for="UserId" type="hidden" />
+        <input asp-for="UserName" type="hidden" />
+        <input asp-for="User" type="hidden" />
+        <input type="hidden" asp-for="Picture" />
+
+        <div class="leftist">
+
+            <label><h2>Tytuł</h2></label>
+            <input class="poled" asp-for="Title" />
+
+            <label><h2>Opis</h2></label>
+            <textarea class="poled" asp-for="Description"></textarea>
+
+            <label>Zdjęcie (png)</label>
+            <input class="file-poled" type="file" name="file"/>
+
+            <p class="dk">
+                Disclaimer / Zastrzeżenie odpowiedzialności <br />
+                Korzystając z tej strony, użytkownik akceptuje zasady…
+            </p>
+
+        </div>
+
+        <div class="rightist">
+
+            <label><h1>Cena</h1></label>
+            <input class="poled" asp-for="Price" type="number" step="0.01" placeholder="0" />
+
+            <button class="btn btn-primary mt-3" type="submit">Prześlij</button>
+            <button class="btn btn-secondary mt-3" type="reset">Reset</button>
+
+        </div>
+
+    </form>
+</div>

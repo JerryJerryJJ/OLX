@@ -1,0 +1,669 @@
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\appsettings.Development.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\appsettings.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\OLX.staticwebassets.runtime.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\OLX.staticwebassets.endpoints.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\OLX.exe
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\OLX.deps.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\OLX.runtimeconfig.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\OLX.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\OLX.pdb
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Azure.Core.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Azure.Identity.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Humanizer.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.ClientModel.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.CodeDom.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.csproj.AssemblyReference.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.AssemblyInfoInputs.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.AssemblyInfo.cs
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.csproj.CoreCompileInputs.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.RazorAssemblyInfo.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.RazorAssemblyInfo.cs
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\scopedcss\bundle\OLX.styles.css
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\scopedcss\projectbundle\OLX.bundle.scp.css
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\0jnm0c4d1w-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\p6e536f7wo-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\cx5ldad7jb-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\lgdyhkhypp-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\dmw2009nnl-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\1e3xwqkl55-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\ajvqj6r1uj-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\6blf9chxfv-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\q9hxycqa61-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\fm34p9krx0-{0}-ub07r2b239-ub07r2b239.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\5kjylpl64e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\7c7q7ogyel-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\cvwqou7uce-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\y4g39ek5aw-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\q2oqn8va57-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\eo9gnjqalp-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\d0rjlvvloq-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\683md7kedh-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\zxi75p7jox-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\0jhek1ktwr-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\iu4i969dts-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\6ignissxx3-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\vhom8128at-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\48rzmokz8z-{0}-06098lyss8-06098lyss8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\4uo8u2h9dj-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\e2qqtecj0z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\qahy7xn2ux-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\f69y2y4l27-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\6z2kgcxk5a-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\5sns366131-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\i928d9hu38-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\z9a1sb1bgd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\cf4qvc06kz-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\ql2c7kzr7r-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\54de3md73e-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\1pyo75n676-{0}-493y06b0oq-493y06b0oq.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\kipion85wa-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\nd23g8vzly-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\pu6wagr7m3-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\wc1grux6yw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\hwq3hxt12d-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\2so263ivf2-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\n69wh8wi0j-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\anfz7vqkro-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\iyu18x5qgz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\gmhjs77s6v-{0}-47otxtyo56-47otxtyo56.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\4jjds9goid-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\sa8pkeu1sf-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\72nil1e4qp-{0}-ag7o75518u-ag7o75518u.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\5pd81vuubu-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\qvzedivo29-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\0vuckkf02p-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\01zzdq0xk1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\kze5os309d-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\451bt8bj4p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\f9bt35smkx-{0}-k832osah5q-k832osah5q.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\w55jkt5cbj-{0}-k832osah5q-k832osah5q.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\staticwebassets.build.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\staticwebassets.development.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\swae.build.ex.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.csproj.Up2Date
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\refint\OLX.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.pdb
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\OLX.genruntimeconfig.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\ref\OLX.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\appsettings.Development.json
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\appsettings.json
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\OLX.staticwebassets.runtime.json
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\OLX.staticwebassets.endpoints.json
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\OLX.exe
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\OLX.deps.json
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\OLX.runtimeconfig.json
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\OLX.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\OLX.pdb
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Azure.Core.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Azure.Identity.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Humanizer.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\Mono.TextTemplating.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.ClientModel.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.CodeDom.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Composition.Convention.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Composition.Hosting.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Composition.Runtime.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Composition.TypedParts.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Drawing.Common.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Memory.Data.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Runtime.Caching.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Security.Permissions.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\System.Windows.Extensions.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Visual Studio Rzeczy\OLX\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.csproj.AssemblyReference.cache
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\rpswa.dswa.cache.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.AssemblyInfoInputs.cache
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.AssemblyInfo.cs
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.csproj.CoreCompileInputs.cache
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.MvcApplicationPartsAssemblyInfo.cache
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.RazorAssemblyInfo.cache
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.RazorAssemblyInfo.cs
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\rjimswa.dswa.cache.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\scopedcss\bundle\OLX.styles.css
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\scopedcss\projectbundle\OLX.bundle.scp.css
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\4u06h637xv-61n19gt1b8.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\8ej0i0npmy-bqjiyaj88i.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\bznlf4giov-c2jlpeoesf.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\tfspzdzhhn-erw9l3u2r3.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\7ox21a885o-aexeepp0ev.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\o0ub1q5mfn-d7shbmvgxk.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\tmiozp4usm-ausgxo2sd3.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\bjitcvi2xc-k8d9w2qqmf.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\fo7qsykq6u-cosvhxvwiu.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\bto6ubv9pc-ub07r2b239.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\hppbhyfekk-fvhpjtyr6v.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\omgjag4ikf-b7pk76d08c.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\1ijoye0n3y-fsbi9cje9m.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\vhfdqzvs0y-rzd6atqjts.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\uf4kssscth-ee0r1s7dh0.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\cy8gvqu7uh-dxx9fxp4il.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\5milc7f9zo-jd9uben2k1.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\xai46leicd-khv3u5hwcm.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\74q5lllzy4-r4e9w2rdcm.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\uqpc9yn3m7-lcd1t2u6c8.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\9raxohtrpp-c2oey78nd0.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\9ca22fs7v4-tdbxkamptv.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\1ggq23vi58-j5mq2jizvt.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\nncphptauy-06098lyss8.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\0osfa45dgh-nvvlpmu67g.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\t8t0diljs2-s35ty4nyc5.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\yx2f1m68nr-pj5nd1wqec.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\g9k0kxcz38-46ein0sx1k.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\v9hyhwh2e9-v0zj4ognzu.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\ay6gzxc86y-37tfw0ft22.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\pkai2n9gzn-hrwsygsryq.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\6tr49aejgu-pk9g2wxc8p.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\vjb2abku2t-ft3s53vfgj.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\7jqic8f0h1-6cfz1n2cew.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\4lcej86cqn-6pdc2jztkx.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\dwl230hoxz-493y06b0oq.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\rmb3rg1f6l-iovd86k7lj.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\irm3dbzoyj-vr1egmr9el.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\laqbxwue36-kbrnm935zg.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\xdctrkd1pn-jj8uyg4cgr.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\ki9nh0fjgh-y7v9cxd14o.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\lwe1r58wb0-notf2xhcfb.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\w5i8dpckwd-h1s4sie4z3.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\lr4jqfqtd2-63fj8s7r0e.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\3xapq65h7w-0j3bgjxly4.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\zdpwblz52c-47otxtyo56.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\3rzkxgn5k1-4v8eqarkd7.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\ivv7eesgcf-lzl9nlhx6b.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\2fju51u4pk-ag7o75518u.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\ce4m1ssayg-0i3buxo5is.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\on7x2qz39m-o1o13a6vjx.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\tod02gkh97-ttgo8qnofa.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\hvnts604cq-2z0ns9nrw6.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\pu89x3zwha-muycvpuwrr.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\xrtxtoocgk-87fc7y1x7t.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\1up1smns37-7n7ji110gb.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\ljx071fd1o-7n7ji110gb.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\staticwebassets.build.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\staticwebassets.build.json.cache
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\staticwebassets.development.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.csproj.Up2Date
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.dll
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\refint\OLX.dll
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.pdb
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.genruntimeconfig.cache
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\ref\OLX.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\rvvel5styw-{0}-mvg1sl6af6-mvg1sl6af6.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\24ya1sgkax-{0}-lugek5hnai-lugek5hnai.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\plu3gk9wg8-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\zdr2mvz6uk-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\a0qcm0vaub-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\xikykyfefz-{0}-qlccset4i1-qlccset4i1.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\dqy2xw6iw5-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX\obj\Debug\net9.0\compressed\ftd5pe9aau-{0}-jfsiqqwiad-jfsiqqwiad.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\OLX.sourcelink.json
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\zd5gyghgsk-85p624zos2.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\lrylhk09t4-lugek5hnai.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\1v3b25nn4v-fr7q2aak1r.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\8icgt7yj0w-l3n5xuwxn8.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\u7e98olwte-ilo7uva0vt.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\y3btai2w0t-qlccset4i1.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\77lhl1oojc-xzw0cte36n.gz
+H:\Visual Studio Rzeczy\OLX\OLX\obj\Debug\net9.0\compressed\00zh524i3s-jfsiqqwiad.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\appsettings.Development.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\appsettings.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\OLX.staticwebassets.runtime.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\OLX.staticwebassets.endpoints.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\OLX.exe
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\OLX.deps.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\OLX.runtimeconfig.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\OLX.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\OLX.pdb
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Azure.Core.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Azure.Identity.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Humanizer.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.ClientModel.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.CodeDom.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.csproj.AssemblyReference.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.AssemblyInfoInputs.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.AssemblyInfo.cs
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.csproj.CoreCompileInputs.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.RazorAssemblyInfo.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.RazorAssemblyInfo.cs
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\scopedcss\bundle\OLX.styles.css
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\scopedcss\projectbundle\OLX.bundle.scp.css
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\rvvel5styw-{0}-85p624zos2-85p624zos2.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\24ya1sgkax-{0}-lugek5hnai-lugek5hnai.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\0jnm0c4d1w-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\plu3gk9wg8-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\p6e536f7wo-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\cx5ldad7jb-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\lgdyhkhypp-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\dmw2009nnl-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\1e3xwqkl55-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\ajvqj6r1uj-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\6blf9chxfv-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\q9hxycqa61-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\fm34p9krx0-{0}-ub07r2b239-ub07r2b239.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\5kjylpl64e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\7c7q7ogyel-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\cvwqou7uce-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\y4g39ek5aw-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\q2oqn8va57-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\eo9gnjqalp-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\d0rjlvvloq-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\683md7kedh-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\zxi75p7jox-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\0jhek1ktwr-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\iu4i969dts-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\6ignissxx3-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\vhom8128at-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\48rzmokz8z-{0}-06098lyss8-06098lyss8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\4uo8u2h9dj-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\e2qqtecj0z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\qahy7xn2ux-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\f69y2y4l27-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\6z2kgcxk5a-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\5sns366131-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\i928d9hu38-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\z9a1sb1bgd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\cf4qvc06kz-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\ql2c7kzr7r-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\54de3md73e-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\1pyo75n676-{0}-493y06b0oq-493y06b0oq.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\kipion85wa-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\nd23g8vzly-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\pu6wagr7m3-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\wc1grux6yw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\hwq3hxt12d-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\2so263ivf2-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\n69wh8wi0j-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\anfz7vqkro-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\iyu18x5qgz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\gmhjs77s6v-{0}-47otxtyo56-47otxtyo56.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\4jjds9goid-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\zdr2mvz6uk-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\a0qcm0vaub-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\xikykyfefz-{0}-qlccset4i1-qlccset4i1.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\sa8pkeu1sf-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\72nil1e4qp-{0}-ag7o75518u-ag7o75518u.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\dqy2xw6iw5-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\5pd81vuubu-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\qvzedivo29-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\0vuckkf02p-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\01zzdq0xk1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\kze5os309d-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\451bt8bj4p-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\ftd5pe9aau-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\f9bt35smkx-{0}-k832osah5q-k832osah5q.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\compressed\w55jkt5cbj-{0}-k832osah5q-k832osah5q.gz
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\staticwebassets.build.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\staticwebassets.development.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\swae.build.ex.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.csproj.Up2Date
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\refint\OLX.dll
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.pdb
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\OLX.genruntimeconfig.cache
+D:\Microsoft\Projects\testapp2\OLX\OLX-master\OLX\obj\Debug\net9.0\ref\OLX.dll

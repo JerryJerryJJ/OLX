@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Visual Studio Rzeczy\\OLX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\views\\home\\kosz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\views\\home\\kosz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\models\\kosz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\models\\kosz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\data\\olx2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\data\\olx2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\views\\shared\\_postspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\views\\shared\\_postspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\views\\home\\oops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\views\\home\\oops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\views\\home\\posty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\views\\home\\posty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\views\\home\\userpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\views\\home\\userpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\viewmodels\\postswithcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\viewmodels\\postswithcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|h:\\visual studio rzeczy\\olx\\olx\\viewmodels\\postswithusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E153C0-DBB0-2BDC-16CA-EBBFC05096C5}|OLX\\OLX.csproj|solutionrelative:olx\\viewmodels\\postswithusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Post.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "OLX\\Models\\Post.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Post.cs",
+              "RelativeToolTip": "OLX\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:14:50.489Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Oops.cshtml",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Oops.cshtml",
+              "RelativeDocumentMoniker": "OLX\\Views\\Home\\Oops.cshtml",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Oops.cshtml",
+              "RelativeToolTip": "OLX\\Views\\Home\\Oops.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T15:12:43.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_PostsPartial.cshtml",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Shared\\_PostsPartial.cshtml",
+              "RelativeDocumentMoniker": "OLX\\Views\\Shared\\_PostsPartial.cshtml",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Shared\\_PostsPartial.cshtml",
+              "RelativeToolTip": "OLX\\Views\\Shared\\_PostsPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T15:07:52.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Posty.cshtml",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Posty.cshtml",
+              "RelativeDocumentMoniker": "OLX\\Views\\Home\\Posty.cshtml",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Posty.cshtml",
+              "RelativeToolTip": "OLX\\Views\\Home\\Posty.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:44:58.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "OLX\\Models\\Comment.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Comment.cs",
+              "RelativeToolTip": "OLX\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:56:24.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "OLX\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "OLX\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:55:41.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserPanel.cshtml",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\UserPanel.cshtml",
+              "RelativeDocumentMoniker": "OLX\\Views\\Home\\UserPanel.cshtml",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\UserPanel.cshtml",
+              "RelativeToolTip": "OLX\\Views\\Home\\UserPanel.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T19:21:28.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OLX\\Controllers\\AccountController.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OLX\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:19:00.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kosz.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Kosz.cs",
+              "RelativeDocumentMoniker": "OLX\\Models\\Kosz.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Kosz.cs",
+              "RelativeToolTip": "OLX\\Models\\Kosz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:17:44.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostsWithUsers.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\ViewModels\\PostsWithUsers.cs",
+              "RelativeDocumentMoniker": "OLX\\ViewModels\\PostsWithUsers.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\ViewModels\\PostsWithUsers.cs",
+              "RelativeToolTip": "OLX\\ViewModels\\PostsWithUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:16:59.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kosz.cshtml",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Kosz.cshtml",
+              "RelativeDocumentMoniker": "OLX\\Views\\Home\\Kosz.cshtml",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Kosz.cshtml",
+              "RelativeToolTip": "OLX\\Views\\Home\\Kosz.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAH0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T19:15:31.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostsWithComments.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\ViewModels\\PostsWithComments.cs",
+              "RelativeDocumentMoniker": "OLX\\ViewModels\\PostsWithComments.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\ViewModels\\PostsWithComments.cs",
+              "RelativeToolTip": "OLX\\ViewModels\\PostsWithComments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:45:40.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OLX\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OLX\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:37:00.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "OLX\\Views\\Home\\Create.cshtml",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "OLX\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:34:23.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OLX\\Controllers\\HomeController.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OLX\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAAHMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:25:51.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "OLX\\Models\\Users.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Models\\Users.cs",
+              "RelativeToolTip": "OLX\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:19:10.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OLX2Context.cs",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Data\\OLX2Context.cs",
+              "RelativeDocumentMoniker": "OLX\\Data\\OLX2Context.cs",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\Data\\OLX2Context.cs",
+              "RelativeToolTip": "OLX\\Data\\OLX2Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:17:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\appsettings.json",
+              "RelativeDocumentMoniker": "OLX\\appsettings.json",
+              "ToolTip": "H:\\Visual Studio Rzeczy\\OLX\\OLX\\appsettings.json",
+              "RelativeToolTip": "OLX\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T17:13:36.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

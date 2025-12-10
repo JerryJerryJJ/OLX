@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Witaj</h1>
+    <a class="btn btn-primary" asp-action="Posty" asp-controller="Home">Zaczynajmy!</a>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <a class="btn btn-secondary" asp-action="Kosz" asp-controller="Home">Koszyk!</a>
+    }
+    <br />
+    <br />
+    <br />
+
+    <h3>Witaj w naszym nowym serwisie ogłoszeniowym!</h3>
+    <p>Stworzyliśmy to miejsce, aby łączyć ludzi w sposób prosty, bezpieczny i wygodny. Nasza platforma powstała z myślą o użytkownikach, którzy oczekują przejrzystości, szybkości działania i pełnej kontroli nad swoimi ogłoszeniami.</p>
+
+    <h3>🔒 Bezpieczeństwo przede wszystkim</h3>
+    <p>Dbamy o to, aby każdy użytkownik czuł się komfortowo. Wprowadziliśmy nowoczesne systemy ochrony, weryfikację kont oraz mechanizmy minimalizujące ryzyko nieuczciwych transakcji.</p>
+
+    <h3>⚡ Nowoczesny i szybki serwis</h3>
+    <p>Nasza platforma działa błyskawicznie i została zaprojektowana w oparciu o najnowsze technologie, aby korzystanie z niej było intuicyjne i przyjemne — zarówno na komputerze, jak i telefonie.</p>
+
+    <h3>🛠️ Łatwe wystawianie i przeglądanie ogłoszeń</h3>
+    <p>Dodawaj ogłoszenia w kilka sekund, zarządzaj nimi wygodnie w jednym miejscu i docieraj do realnie zainteresowanych osób.</p>
+
+    <h3>🤝 Społeczność, której możesz zaufać</h3>
+    <p>Wierzymy, że zakupy i sprzedaż online mogą być bardziej przejrzyste. Tworzymy miejsce, gdzie liczy się uczciwość, prostota i dobra komunikacja.</p>
+</div>

@@ -1,0 +1,236 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<Users> UserManager
+@{
+    ViewData["Title"] = "Posty";
+    Random rng = new Random();
+    int id = rng.Next(10000);
+    var user = await UserManager.GetUserAsync(User);
+}
+
+@model OLX.ViewModels.PostsWithComments
+
+<style>
+    body {
+        text-align: center;
+    }
+
+    .fajna {
+        background-color: #212121;
+        border-color: #0f0f0f;
+        border-radius: 5px;
+        width: 70%;
+        padding: 20px;
+        border-width: 5px;
+        margin: 20px;
+        margin-left: 15%;
+        text-align: left;
+    }
+
+    .left_right {
+        text-align: left;
+        gap: 20px;
+    }
+
+    .leftist {
+        flex: 2;
+        background-color: #383838;
+        border-radius: 5px;
+        padding: 20px;
+        margin-top: 10px;
+    }
+
+    .leftist2 {
+        flex: 2;
+        background-color: #292929;
+        border-radius: 5px;
+        padding: 20px;
+        margin-top: 10px;
+    }
+
+    .rightist {
+        flex: 3;
+        text-align: center;
+    }
+
+    .dk {
+        color: #6c6c6c;
+    }
+
+    .poled {
+        background-color: #121212;
+        font-size: 15px;
+        height: auto;
+        width: stretch;
+        border-width: 0px;
+        border-radius: 2px;
+        color: #b3b3b3;
+        margin-bottom: 15px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding-left: 5px;
+        transition-duration: 0.3s;
+    }
+
+        .poled:hover {
+            background-color: #121212;
+            font-size: 15px;
+            height: auto;
+            width: stretch;
+            border-width: 0px;
+            border-radius: 2px;
+            color: #ffffff;
+            margin-bottom: 15px;
+            margin-right: 10px;
+            margin-top: 5px;
+            padding-left: 5px;
+            transition-duration: 0.3s;
+        }
+
+    hh {
+        font-size: 50px;
+    }
+
+    green {
+        color: limegreen;
+    }
+
+    red {
+        color: red;
+    }
+</style>
+
+<body>
+    <div class="text-center">
+        @{
+            @foreach (var post in Model.Posts)
+            {
+                <div class="fajna">
+                    <p class="dk">Dodano @post.PostedDate</p>
+                    <p class="dk">Przez @post.UserName</p>
+                    <h2>@post.Title - @if (post.Aktualne == true) {
+                    <green>Aktualne</green>
+                } else
+                {
+
+                    <red>Nieaktualne</red>
+                }
+                </h2>
+                <div class="left_right">
+                    <div class="rightist">
+                        @if (post.Picture != null && post.Picture.Length > 0)
+                        {
+                            var img = "data:image/png;base64," + Convert.ToBase64String(post.Picture);
+                            <div class="align-items-center leftist2"><img src="@img" width="100%" height="600px" /></div>
+                            <br />
+                        }
+                    </div>
+                    <b><hh>@post.Price zł</hh></b>
+                    <div class="leftist">
+                        <h3>Informacje</h3>
+                        <hr />
+                        <a class="dk">Opis:</a>
+                        <a>@post.Description</a> <br />
+
+                        @{
+                            bool exists = false;
+                        }
+                        @foreach (var k in Model.Kosz)
+                        {
+                            if (k.PostId == post.Id && k.UserId == user.Id)
+                            {
+                                exists = true;
+                            }
+                        }
+
+                        @if (!exists && post.Aktualne)
+                        {
+                            <form asp-action="KoszForm" method="post">
+                                <input type="hidden" name="Id" />
+                                <input type="hidden" name="PostId" value="@(post.Id)" />
+                                <input type="hidden" name="UserId" value="@(user.Id)" />
+                                <input class="btn btn-secondary" type="submit" value="Dodaj do kosza!" />
+                            </form>
+                        }
+                        else
+                        {
+                            @if (!post.Aktualne)
+                            {
+                                <b class="dk">Spóźniłeś się! post jest już nie aktualny! ha. ha. ha</b>
+                            }
+                            else
+                            {
+                                <b class="dk">Ten przedmiot jest już w Twoim koszu!</b>
+                            }
+
+                        }
+                        <br />
+                        <!--
+                        <form asp-action="CommentForm" method="post">
+                            <input type="hidden" name="PostId" value="post.Id" />
+                            <input type="hidden" name="Autor" value="Anonimowy id" />
+                            <input type="text" class="poled" name="Text" placeholder="Twój komentarz" required />
+                        </form>
+                        <button name="bubba" class="btn btn-secondary" style=" font-size: 10px">Ukryj Komentarze</button>
+                        <div id="comment_container" style="text-align: left;">
+                            //foreach (var comment in Model.Comments)
+                            // {
+                            //     if (comment.PostId == post.Id)
+                            //     {
+                            //         <div>
+                            //             <img src="https:cdn.discordapp.com/attachments/1162090712129613826/1441057236276477994/default-profile-picture-grey-male-icon.png?ex=692068a2&is=691f1722&hm=02c44c780318d6c3161b9c91101c54b368aca97ee59d0bdbf5ae19a94e0cbe6b&"
+                            //                  width="20" height="20" />
+                            //             <b>comment.Autor:</b> comment.Text <p class="dk">| dodano comment.CreatedAt</p>
+                            //         </div>
+                            //     }
+                            // }
+                        </div> -->
+                    </div>
+                    <div class="leftist">
+                        <h3>Komentarze</h3>
+
+                        <br />
+                        <form asp-action="CommentForm" method="post">
+                            <input type="hidden" name="Post" value="@post.Id" />
+                            <input name="UserId" type="hidden" />
+                            <input name="UserName" type="hidden" />
+                            <input type="text" class="poled" name="Text" placeholder="Twój komentarz" required />
+                        </form>
+                        <button name="bubba" id="skibidy" class="btn btn-secondary" style=" font-size: 10px">Ukryj Komentarze</button>
+                        <div id="comment_container" style="text-align: left;">
+                            @foreach (var comment in Model.Comments)
+                            {
+                                if (comment.Post == post.Id)
+                                {
+                                    <div>
+                                        <b>@comment.UserName:</b> @comment.Text
+                                        <p class="dk">
+                                            @if (comment.UserId == user.Id || User.IsInRole("Admin"))
+                                            {
+                                                <a asp-action="DeleteComment" asp-route-id="@comment.Id">Delete</a>
+                                            }
+                                            | dodano @comment.PostedDate
+                                        </p>
+                                    </div>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+                }
+    </div>
+    <script>
+        let buttony = document.querySelectorAll("#skibidy");
+
+        for (let i of buttony) {
+            i.addEventListener("click",()=>{
+                i.nextElementSibling.toggleAttribute("hidden");
+            })
+        }
+
+    </script>
+</body>
+
+
